@@ -1,5 +1,12 @@
 ## Overview
 It Consists of Home page of facebook.
+ 
+### Sign-Up Page
+
+#### This page is fully made up of Tailwind-css along with media-queries!
+
+![](./images/signup.png)
+
 ### Facebook Clone
 
 ![](./images/design.png)
@@ -17,6 +24,7 @@ It Consists of Home page of facebook.
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- TailwindCss (Sign-up page)
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
