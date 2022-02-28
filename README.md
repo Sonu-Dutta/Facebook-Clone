@@ -5,7 +5,7 @@ It Consists of Home page of facebook.
 
 #### This page is fully made up of Tailwind-css along with media-queries!
 
-![](./images/signup.png)
+![](./signup.png)
 
 ### Facebook Clone
 
